@@ -42,13 +42,10 @@ Die Website wurde ursprünglich mit **ZipWP** erstellt und anschließend **angep
 
 ---
 
-## Link zum Projekt
-
-1. **Site statique** : télécharger le projet et ouvrir `index.html` dans un navigateur.
-2. **WordPress complet** :
-   - Installer WordPress en local
-   - Copier le thème `_underscores` depuis ce dépôt dans `wp-content/themes/`
-   - Activer le thème et importer les contenus si besoin
+## 🚀 Live Demo
+Die Website ist unter folgendem Link erreichbar:
+[https://tkc-center.github.io/fitness-coach/](https://tkc-center.github.io/fitness-coach/)
+ 
 
 ---
 
@@ -56,13 +53,14 @@ Die Website wurde ursprünglich mit **ZipWP** erstellt und anschließend **angep
 
 ![Home](screenshots/home.png)
 ![Services](screenshots/services.png)
-![Contact](screenshots/contact.png)
-
-*(Remplacer par vos propres captures d’écran)*
+![Contact](screenshots/contact.png) 
 
 ---
 
-## Lizenz
+## 📄 Rechtlicher Hinweis
+Dies ist eine **rein fiktive Website**, die ausschließlich zu Demonstrationszwecken erstellt wurde. 
+Es findet kein geschäftlicher Betrieb statt, und es werden keine realen Dienstleistungen angeboten. 
+Die verwendeten Bilder stammen von Pexels.
 
-Dieses Projekt ist Open Source und kann für Portfoliozwecke und zum persönlichen Lernen genutzt werden.
-Alle Rechte an den Originalinhalten (generierte/bearbeitete Texte und Bilder) sind vorbehalten.
+----
+Erstellt von [Christian Tene /TKC-Center] - 2026
