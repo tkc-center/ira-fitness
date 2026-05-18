@@ -1,6 +1,6 @@
 # Fitness-Coach-Website
 
-!startseite (<img width="1897" height="1060" alt="home" src="https://github.com/user-attachments/assets/21716bf4-5b95-49ec-a359-ae5ea060b7c9" />)
+![startseite](<img width="1897" height="1060" alt="home" src="https://github.com/user-attachments/assets/21716bf4-5b95-49ec-a359-ae5ea060b7c9" />)
 
 
 ## Beschreibung
