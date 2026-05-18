@@ -1,6 +1,7 @@
 # Coach Fitness Website
 
-![Screenshot](screenshot.png)
+![Sartseite<img width="1897" height="1060" alt="home" src="https://github.com/user-attachments/assets/21716bf4-5b95-49ec-a359-ae5ea060b7c9" />
+]
 
 ## Description
 
