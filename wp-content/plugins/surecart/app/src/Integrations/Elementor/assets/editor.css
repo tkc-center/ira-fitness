@@ -17,8 +17,8 @@
 
 /* SureCart Icon for Template selector */
 .elementor-add-new-section .elementor-surecart-template-button {
-	-webkit-mask: url("/wp-content/plugins/surecart/images/icon.svg") no-repeat center;
-	mask: url("/wp-content/plugins/surecart/images/icon.svg") no-repeat center;
+	-webkit-mask: url("/ira-fitness/wp-content/plugins/surecart/images/icon.svg") no-repeat center;
+	mask: url("/ira-fitness/wp-content/plugins/surecart/images/icon.svg") no-repeat center;
 	-webkit-mask-size: contain;
 	mask-size: contain;
 	background-color: #01824c !important;
