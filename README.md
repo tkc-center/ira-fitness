@@ -50,10 +50,10 @@ Die Website ist unter folgendem Link erreichbar:
 ---
 
 ## Screenshots
+ 
+<img width="1889" height="1058" alt="Leistungen" src="https://github.com/user-attachments/assets/c72cbee4-f8de-4d83-9337-a848ba7b714a" />
 
-![Home](screenshots/home.png)
-![Services](screenshots/services.png)
-![Contact](screenshots/contact.png) 
+<img width="1885" height="1063" alt="Kontakt" src="https://github.com/user-attachments/assets/c1a6a5a3-72d6-4dc3-95ab-7668e20ad220" />
 
 ---
 
