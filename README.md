@@ -1,9 +1,9 @@
-# Fitness-Coach-Website
+
 
 <img width="1897" height="1060" alt="home" src="https://github.com/user-attachments/assets/21716bf4-5b95-49ec-a359-ae5ea060b7c9" />
 
 
-## Beschreibung
+# Fitness-Coach-Website
 
 Dieses Projekt ist eine **vollständige Website für einen Fitnesstrainer**, die auf WordPress mit einem benutzerdefinierten Theme basierend auf `ASTRA` erstellt wurde.  
 Ziel war es, eine **moderne, responsive und professionelle Website** zu erstellen, die als Portfolio oder Schaufenster für einen Personal Trainer genutzt werden kann.
@@ -12,8 +12,7 @@ Die Website wurde ursprünglich mit **ZipWP** erstellt und anschließend **angep
 
 ---
 
-## Hauptmerkmale
-
+## Features
 - Moderne Homepage mit **Hero-Bereich** und CTA.
 - Interne Seiten :
   - Über den Coach
@@ -28,8 +27,7 @@ Die Website wurde ursprünglich mit **ZipWP** erstellt und anschließend **angep
 
 ---
 
-## Verwendete Technologien
-
+## Tech Stack
 - **WordPress** (CMS)
 - **PHP, HTML5, CSS3, JavaScript**
 - **Verwendete Plugins**: Keine proprietären Plugins enthalten (Export der statischen Website über Simply Static möglich)
