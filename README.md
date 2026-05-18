@@ -1,6 +1,6 @@
 # Fitness-Coach-Website
 
-![startseite](<img width="1897" height="1060" alt="home" src="https://github.com/user-attachments/assets/21716bf4-5b95-49ec-a359-ae5ea060b7c9" />)
+<img width="1897" height="1060" alt="home" src="https://github.com/user-attachments/assets/21716bf4-5b95-49ec-a359-ae5ea060b7c9" />
 
 
 ## Beschreibung
@@ -44,7 +44,7 @@ Die Website wurde ursprünglich mit **ZipWP** erstellt und anschließend **angep
 
 ---
 
-## Instructions pour visualiser le projet
+## Link zum Projekt
 
 1. **Site statique** : télécharger le projet et ouvrir `index.html` dans un navigateur.
 2. **WordPress complet** :
@@ -64,13 +64,7 @@ Die Website wurde ursprünglich mit **ZipWP** erstellt und anschließend **angep
 
 ---
 
-## Licence
+## Lizenz
 
-Ce projet est open-source pour usage portfolio et apprentissage personnel.  
-Tous droits réservés pour contenu original (textes et images générés / modifiés).
-
----
-
-## Liens
-
-- Démo en ligne (ZipWP) : [https://blooming-boutelle-duq.zipwp.dev/](https://blooming-boutelle-duq.zipwp.dev/)
+Dieses Projekt ist Open Source und kann für Portfoliozwecke und zum persönlichen Lernen genutzt werden.
+Alle Rechte an den Originalinhalten (generierte/bearbeitete Texte und Bilder) sind vorbehalten.
